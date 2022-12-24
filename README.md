@@ -4,7 +4,7 @@
 
 <h3 align="center">Hi, I'm Annmarie. You can just call me Ann, I am a aspiring Software Developer eager to get started in the tech industry. Nice to meet you!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.alphaprogrammer.in/wp-content/uploads/2021/04/8306-programming-animation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=plumchef&label=Profile%20views&color=0e75b6&style=flat" alt="plumchef" /> </p>
 
