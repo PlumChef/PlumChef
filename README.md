@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my profile!☕🌿</h1>
 
-<h3 align="center">Hi, I'm AnnMarie a aspiring Software Developer eager to get started in the tech industry!</h3>
+<h3 align="center">Hi, I'm Annmarie. You can just call me Ann, I am a aspiring Software Developer eager to get started in the tech industry. Nice to meet you!</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on **building a portfolio**
 
 - 🌱 I’m currently learning **JavaScript and React**
-
 
 - 📫 How to reach me **email: annmariea@gmail.com**
 
